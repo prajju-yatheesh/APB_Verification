@@ -2,40 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>APB RAM Design and Verification</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1 {
-      color: #2c3e50;
-    }
-    h2 {
-      color: #2980b9;
-      border-bottom: 2px solid #2980b9;
-      padding-bottom: 5px;
-    }
-    ul {
-      line-height: 1.6;
-    }
-    a {
-      color: #e74c3c;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .highlight {
-      background-color: #ecf0f1;
-      padding: 10px;
-      border-left: 4px solid #3498db;
-      font-family: monospace;
-    }
-  </style>
-</head>
+  
+    
 <body>
 
   <h1>📦 APB RAM Design and Verification</h1>
